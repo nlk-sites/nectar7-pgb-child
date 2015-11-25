@@ -45,7 +45,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 												<div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
 													<h4>NECTAR7 Niagen&reg; gives you the power to do more.</h4>
 													<h1>WHY DO SOME PEOPLE AGE FASTER THAN OTHERS?</h1>
-													<div class="videocontent">
+													<div class="videocontent" style="box-shadow: 0 3px 8px; max-width:736px;">
 														<img src="<?php bloginfo('stylesheet_directory'); ?>/images/vsl_niagen_play.jpg" alt="NECTAR7 gives you the power to do more." width="640" height="360" />
 													</div>
 												</div>
@@ -71,7 +71,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 												<div class="addtocartdiv">
 													<!--label><input type="radio" name="refilltype_30" id="refilltype_30_a" value="autofill"/> AutoRefill price - BEST value</label-->
 													<!--label><input type="radio" name="refilltype_30" id="refilltype_30_1" value="one_time"/> One-time delivery price</label-->
-													<a href="<?php echo $cart_url; ?>?add-to-cart=74" class="btn btn-primary"/>ADD TO CART</a>
+													<a href="<?php echo $cart_url; ?>?add-to-cart=74" class="btn btn-primary">ADD TO CART</a>
 													<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 												</div>
 											</div>
@@ -89,7 +89,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 												<div class="addtocartdiv">
 													<!--label><input type="radio" name="refilltype_90" id="refilltype_90_a" value="autofill"/> AutoRefill price - BEST value</label-->
 													<!--label><input type="radio" name="refilltype_90" id="refilltype_90_1" value="one_time"/> One-time delivery price</label-->
-													<a href="<?php echo $cart_url; ?>?add-to-cart=97" class="btn btn-primary"/>ADD TO CART</a>
+													<a href="<?php echo $cart_url; ?>?add-to-cart=97" class="btn btn-primary">ADD TO CART</a>
 													<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 												</div>
 											</div>
@@ -107,7 +107,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 												<div class="addtocartdiv">
 													<!--label><input type="radio" name="refilltype_180" id="refilltype_180_a" value="autofill"/> AutoRefill price - BEST value</label-->
 													<!--label><input type="radio" name="refilltype_180" id="refilltype_180_1" value="one_time"/> One-time delivery price</label-->
-													<a href="<?php echo $cart_url; ?>?add-to-cart=98" class="btn btn-primary"/>ADD TO CART</a>
+													<a href="<?php echo $cart_url; ?>?add-to-cart=98" class="btn btn-primary">ADD TO CART</a>
 													<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 												</div>
 											</div>
@@ -234,8 +234,8 @@ $cart_url = $woocommerce->cart->get_cart_url();
                     </div>
                   </div>
                 </div>
-
-                <div class="row box-title testimonials">
+			</div>
+			<div class="row testimonials">
                 <div class="col-xs-12">
                   <h3>Happy Customers</h3>
 
@@ -286,7 +286,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
                 </div>
                 </div>
               </div>
-              </div>
+            </div>
 
                 <div class="row productfaqs">
                   <div class="col-xs-12">
@@ -303,8 +303,6 @@ $cart_url = $woocommerce->cart->get_cart_url();
                     </div>
                   </div>
                 </div>
-
-							</div>
 						</div>
 
 					</div>
