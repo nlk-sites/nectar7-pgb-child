@@ -3,4 +3,4 @@ Example child theme of ProGo Base pgb. Currently just enqueues the default pgb s
 
 ![awesome](https://raw.github.com/progothemes/pgb-child/master/screenshot.png)
 
-But you could fork it and make it do more.
+But you could fork it and make it do moar.
