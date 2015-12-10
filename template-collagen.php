@@ -68,14 +68,19 @@ liver or your brain cells?
 </div>
 <!-- end .b-leg-->
 <div class="g-clear_fix"></div>
-<div class="b-aging l-no_bg_image"><article>
-<h2><strong>When</strong> did you first notice,
-<strong>‘My body is aging'?</strong></h2>
-What makes you feel older? Is it losing your youthful exuberance, energy and endurance? Perhaps it was when you started having trouble keeping up at work because your concentration was slipping. Or when you realized that you couldn’t move freely enough any longer to enjoy exercise, sports or playing with your grandchildren.
-
-For others, growing older means not looking and feeling as youthful, useful and vital as in years gone by. Maybe you’ve reached an age when you wished you had more time to accomplish your goals, do volunteer work or travel. Whatever aspect of aging you may identify with, it’s a fact of life we all dread.
-
-</article><img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/aging_bg.png" alt="" />
+<div class="coincidence">
+  <article>
+    <p>
+      It’  s no coincidence that many of the cosmetic products that “  seemed”   to work beautifully into your 20s— and early 30s — are suddenly less effective into your late 30s and 40s. It’  s NOT your fault! Your beautiful complexion probably had LESS to do with the products you were using religiously and MORE to do with a naturally occurring protein molecule in your body called collagen.
+    </p>
+  </article>
+<!-- <img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/aging_bg.png" alt="" /> -->
+  <img src="/wp-content/themes/nectar7-pgb-child/images/Group-14.png" alt="" />
+  <article>
+    <p>
+      Often referred to as the “ youth protein,”  collagen makes up the vast majority of our skin — nearly 70% — and forms the basis for connective and support tissues throughout the body. In essence, collagen is the glue that keeps everything perfectly in place...for a while. So if you’  re wondering why those ridiculously expensive skin products aren’  t working like they used to, there’  s a good chance it’  s because of the ever-dwindling supply of collagen in your body.
+    </p>
+  </article>
 
 </div>
 <!-- end .b-aging   -->
