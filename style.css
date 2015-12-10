@@ -4190,10 +4190,7 @@ div.big-bucks article {
 div.nope {
 	width: 40%;
 	display: inline-block;
-}
-
-b-header_content ul {
-	max-width: 45%;
+	padding-top: 50px;
 }
 
 @media (max-width: 950px) {
