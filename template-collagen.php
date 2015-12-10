@@ -1,3 +1,15 @@
+<?php
+/*
+ * Template Name: Collagen Template
+ *
+ * The template for displaying the Collagen page.
+ *
+ * @package pgb
+ */
+
+get_header(); ?>
+
+
 <style type="text/css">
 .kudos-site-credit{
     display:none !important;
@@ -537,3 +549,5 @@ YOU SAVE $18.00 (27.70%)
 <div class="g-clear_fix"></div>
 </div>
 </div>
+
+<?php get_footer(); ?>
