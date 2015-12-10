@@ -4203,6 +4203,10 @@ div.red article h3 {
 	text-align: center;
 }
 
+div.coincidence p {
+	padding: 40px 50px;
+}
+
 @media (max-width: 950px) {
 	/*
 	 * Dark
