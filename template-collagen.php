@@ -29,7 +29,7 @@ get_header(); ?>
     <li>Skin care products that sound great, but don’t work?</li>
     <li>Skin care products that have stopped working?</li>
     <li>The high cost, pain and possible side effects of facial injections and cosmetic surgery?</li>
-    <li>ALL OF THE ABOVE?</li>
+    ALL OF THE ABOVE?
   </ul>
 
 </div>
