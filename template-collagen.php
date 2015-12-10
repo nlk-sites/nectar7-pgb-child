@@ -7,7 +7,7 @@
  * @package pgb
  */
 
-get_header(); ?>
+// get_header(); ?>
 
 
 <style type="text/css">
