@@ -60,7 +60,7 @@ For others, growing older means not looking and feeling as youthful, useful and 
 </article><img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/aging_bg.png" alt="" />
 
 </div>
-<!-- end .b-aging-->
+<!-- end .b-aging   -->
 <div class="g-clear_fix"></div>
 <div class="b-dark">
 <div class="b-dark_content">
