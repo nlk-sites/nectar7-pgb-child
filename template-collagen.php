@@ -42,7 +42,7 @@ liver or your brain cells?
 </div>
 <!-- end .b-header-->
 <div class="g-clear_fix"></div>
-<div><article>
+<div class="big-bucks"><article>
 <p>
   If you’  re tired of paying big bucks for fancy bottles that fail to live up to the hype, if you’  re worried about harsh chemicals and preservatives that may be doingmore harm than good, if you’  re NOT ready for the pain, expense and uncertainty of facial injections or going under the knife, then keep reading. You’  re about to learn about a brand new skin care advance with age-defying properties NEVER before available to the public — until now!
 </p>

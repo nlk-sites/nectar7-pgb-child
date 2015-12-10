@@ -210,7 +210,7 @@ header {
 	font-family: 'Source Sans Pro', "MyriadPro";
 	font-size: 15px;
 	/*font-weight: 300;*/
-	color: #000;	
+	color: #000;
 }
 
 #top-nav {
@@ -338,7 +338,7 @@ header {
 #footerwidgets ul.menu li
 {
 	float: left;
-	list-style: none;	
+	list-style: none;
 }
 
 #footerwidgets ul.menu li a
@@ -359,7 +359,7 @@ header {
 #footerwidgets .cards
 {
 	float: right;
-	max-width: 355px;	
+	max-width: 355px;
   margin-bottom: 2em;
 }
 
@@ -377,7 +377,7 @@ header {
 .cards div.AuthorizeNetSeal img
 {
 	width: 45px;
-	height: auto;	
+	height: auto;
 	margin-top: -5px;
 }
 
@@ -397,19 +397,19 @@ footer .site-copyright {
 footer .socialicons
 {
 	padding-top: 15px;
-	padding-bottom: 15px;	
+	padding-bottom: 15px;
 }
 
 footer .socialicons ul
 {
-	float: right;	
+	float: right;
 }
 
 footer .socialicons ul li
 {
 	list-style: none;
 	float: left;
-	margin: 0px 10px;	
+	margin: 0px 10px;
 }
 
 footer .socialicons ul li a
@@ -424,14 +424,14 @@ footer .socialicons ul li.twitter a
 {
 	height: 24px;
 	width: 24px;
-	background: url('images/twitter_n.png') center center no-repeat transparent;	
+	background: url('images/twitter_n.png') center center no-repeat transparent;
 }
 
 footer .socialicons ul li.facebook a
 {
 	height: 24px;
 	width: 24px;
-	background: url('images/facebook_n.png') center center no-repeat transparent;	
+	background: url('images/facebook_n.png') center center no-repeat transparent;
 }
 
 
@@ -439,7 +439,7 @@ footer .socialicons ul li.instagram a
 {
 	height: 24px;
 	width: 24px;
-	background: url('images/instagram_n.png') center center no-repeat transparent;	
+	background: url('images/instagram_n.png') center center no-repeat transparent;
 }
 
 
@@ -457,7 +457,7 @@ footer .socialicons ul li.instagram a
 	font-family: "MyriadPro";
 	font-weight: 400;
 	font-size: 18px;
-	text-transform: uppercase;	
+	text-transform: uppercase;
 	padding: 10px 30px 8px;
 	background: #00B3E3;
 	border-radius: 10px;
@@ -467,7 +467,7 @@ footer .socialicons ul li.instagram a
 
 .btn.btn-primary span
 {
-	text-transform: none;	
+	text-transform: none;
 }
 
 /* Home page */
@@ -550,7 +550,7 @@ footer .socialicons ul li.instagram a
 }
 .rightboxedcontent.lightbluebox .box-title
 {
-	background: #00b3e3;	
+	background: #00b3e3;
 }
 
 .rightboxedcontent .box-title h3
@@ -643,7 +643,7 @@ footer .socialicons ul li.instagram a
 
 
 .leftboxedcontent {
-	padding-top: 45px;	
+	padding-top: 45px;
 }
 
 .leftboxedcontent p {
@@ -717,7 +717,7 @@ footer .socialicons ul li.instagram a
 .leftboxedcontent.benefitscontent ul
 {
 	padding-left: 0px;
-	margin-left: 0px;	
+	margin-left: 0px;
 	margin-bottom:3em;
 }
 .leftboxedcontent.benefitscontent ul li
@@ -775,7 +775,7 @@ footer .socialicons ul li.instagram a
 
 .leftboxedcontent.yellowbox
 {
-	background: #f7f6f0;	
+	background: #f7f6f0;
 }
 
 .leftboxedcontent.productbox
@@ -880,7 +880,7 @@ footer .socialicons ul li.instagram a
 }
 body.unpad .main-content .entry-content {
   padding: 0 15px !important;
-}	
+}
 .main-content .entry-content.main-entry-content
 {
 	padding-top: 0px;
@@ -929,7 +929,7 @@ body.unpad .main-content .entry-content {
 	margin-bottom: 0px;
 	margin-top: 5px;
 	text-transform: uppercase;
-	text-align: right; 
+	text-align: right;
 }
 
 .page-heading.store-heading h3
@@ -985,7 +985,7 @@ body.unpad .main-content .entry-content {
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 32px;
-	margin-bottom: 10px;	
+	margin-bottom: 10px;
 }
 
 .main-content .row.products .product-desc p
@@ -1012,7 +1012,7 @@ body.unpad .main-content .entry-content {
 	font-family: "MyriadPro";
 	font-weight: 400;
 	font-size: 18px;
-	text-transform: uppercase;	
+	text-transform: uppercase;
 	padding: 10px 30px 8px;
 	min-width: 220px;
 	background: #00B3E3;
@@ -1045,7 +1045,7 @@ body.unpad .main-content .entry-content {
 
 .woocommerce div.product .productaddtocart form.cart
 {
-	margin-bottom: 0px;	
+	margin-bottom: 0px;
 }
 
 .woocommerce div.product .productaddtocart form.cart div.quantity
@@ -1094,7 +1094,7 @@ body.unpad .main-content .entry-content {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 0px;
-	padding-right: 0px;	
+	padding-right: 0px;
 }
 
 .woocommerce #content table.cart td.actions .input-text, .woocommerce table.cart td.actions .input-text, .woocommerce-page #content table.cart td.actions .input-text, .woocommerce-page table.cart td.actions .input-text
@@ -1118,7 +1118,7 @@ body.unpad .main-content .entry-content {
 	font-size: 18px;
 	font-family: "MyriadPro";
 	color: #fff;
-	font-weight: 400; 
+	font-weight: 400;
 }
 
 .woocommerce .cart .button.updatebutton, .woocommerce .cart input.button.updatebutton
@@ -1195,7 +1195,7 @@ body.unpad .main-content .entry-content {
 	font-family: "MyriadPro";
 	font-weight: 400;
 	font-size: 18px;
-	text-transform: uppercase;	
+	text-transform: uppercase;
 	padding: 10px 30px 8px;
 	min-width: 220px;
 	background: #00B3E3;
@@ -1223,7 +1223,7 @@ body.unpad .main-content .entry-content {
 .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message
 {
 	border-top: 3px solid #1946BA;
-	margin: 2em 0px !important;	
+	margin: 2em 0px !important;
 }
 
 
@@ -1330,8 +1330,8 @@ body.unpad .main-content .entry-content {
 	text-transform: none;
 	margin: 0px;
 	margin-bottom: 10px;
-	text-transform: uppercase;	
-} 	
+	text-transform: uppercase;
+}
 
 .woocommerce form .form-row label, .woocommerce-page form .form-row label {
     font-weight: 400;
@@ -1375,7 +1375,7 @@ body.unpad .main-content .entry-content {
 	{
 		xpadding-bottom: 0px;
 	}
-	
+
 	.rightboxedcontent.lightbluebox
 	{
 		padding-top: 45px;
@@ -1400,18 +1400,18 @@ body.unpad .main-content .entry-content {
 .main-content .pad30 [class*="col-"] .row
 {
 	margin-left: -20px;
-	margin-right: -20px;	
+	margin-right: -20px;
 }
 
 .videosalespage .videobannercontainer
 {
 	padding-top: 60px;
 	padding-bottom: 80px;
-	background: url('images/NiagenVSLHero.jpg') 50% 0 no-repeat #FFF;																	
+	background: url('images/NiagenVSLHero.jpg') 50% 0 no-repeat #FFF;
 }
 .videosalespage .videobannercontainer.collagen
 {
-	background: url('images/CollagenVSLHero.jpg') 50% 0 no-repeat #FFF;																	
+	background: url('images/CollagenVSLHero.jpg') 50% 0 no-repeat #FFF;
 }
 
 .videosalespage h1
@@ -1428,7 +1428,7 @@ body.unpad .main-content .entry-content {
 .videosalespage .redtape
 {
 	background: #dd291c;
-	padding: 25px 0px 20px;	
+	padding: 25px 0px 20px;
 }
 
 .videosalespage .redtape h2
@@ -1438,7 +1438,7 @@ body.unpad .main-content .entry-content {
 	font-family: "MyriadPro";
 	color: #FFF;
 	font-weight: 400;
-	text-align: center;	
+	text-align: center;
 	margin: 0px;
 	text-transform: none;
 }
@@ -1456,7 +1456,7 @@ body.unpad .main-content .entry-content {
 	font-size: 27px;
 	line-height: 28px;
 	font-family: "MyriadPro";
-	color: #00b3e3;	
+	color: #00b3e3;
 }
 
 .videosalespage .actiontape h2 a
@@ -1562,12 +1562,12 @@ body.unpad .main-content .entry-content {
 .videosalespage .heroproduct
 {
 	padding-top: 73px;
-	padding-bottom: 35px; 
-	background: url('images/fox_tail_3.png') 0 0 no-repeat #1946BA;	
+	padding-bottom: 35px;
+	background: url('images/fox_tail_3.png') 0 0 no-repeat #1946BA;
 }
 .videosalespage .heroproduct.collagen
 {
-	background: url('images/fox_tail_3c.png') 0 0 no-repeat #00B3E3;	
+	background: url('images/fox_tail_3c.png') 0 0 no-repeat #00B3E3;
 }
 .videosalespage .powerandbeauty{
 	background: linear-gradient(to bottom, rgb(218, 218, 218) 140px, #A7A7A7 ), #A7A7A7;
@@ -1581,7 +1581,7 @@ body.unpad .main-content .entry-content {
 .videosalespage .heroproduct .productthumbcon
 {
 	margin-bottom: 38px;
-	margin-top: 20px;		
+	margin-top: 20px;
 }
 
 .videosalespage .heroproduct .productthumbcon img
@@ -1593,8 +1593,8 @@ body.unpad .main-content .entry-content {
 
 .videosalespage .heroproduct .heroproductcontent
 {
-	margin-bottom: 38px;	
-	color: #fff;	
+	margin-bottom: 38px;
+	color: #fff;
 }
 
 .videosalespage .heroproduct .heroproductcontent h1
@@ -1749,7 +1749,7 @@ body.unpad .main-content .entry-content {
 .videosalespage .row.refillproducts > [class*="col-"]
 {
 	padding-left: 10px;
-	padding-right: 10px;	
+	padding-right: 10px;
 }
 
 .videosalespage .row.refillproducts h2
@@ -1770,12 +1770,12 @@ body.unpad .main-content .entry-content {
 
 .videosalespage .refillproducts > .row  [class*="col-"]
 {
-	
+
 }
 
 .videosalespage .refillproducts
 {
-	
+
 }
 
 .videosalespage .refillproducts .refillproductsrow
@@ -1790,18 +1790,18 @@ body.unpad .main-content .entry-content {
 .videosalespage .refillproducts .refillproductsrow .eachRefillProduct:first-child
 {
 	border-right: 0px solid #fff;
-	border-left: 0px solid #fff;	
+	border-left: 0px solid #fff;
 }
 
 .videosalespage .refillproducts .refillproductsrow .eachRefillProduct:last-child
 {
 	border-left: 0px solid #fff;
-	border-right: 0px solid #fff;	
+	border-right: 0px solid #fff;
 }
 
 .videosalespage .refillproducts .eachRefillProduct
 {
-	text-align: center;	
+	text-align: center;
 	padding: 35px 4em 45px;
 	min-height: 715px;
 	border-left: 1px solid #c2c2c2;
@@ -1845,7 +1845,7 @@ body.unpad .main-content .entry-content {
 {
 	display: block;
 	margin-left: auto;
-	margin-right: auto;	
+	margin-right: auto;
 	margin-bottom: 20px;
 }
 
@@ -1871,7 +1871,7 @@ body.unpad .main-content .entry-content {
 
 .videosalespage .refillproducts .eachRefillProduct .priceList h5 span
 {
-	text-decoration:line-through;	
+	text-decoration:line-through;
 }
 
 .videosalespage .refillproducts .eachRefillProduct .priceList h4
@@ -1913,7 +1913,7 @@ body.unpad .main-content .entry-content {
 	font-family: "MyriadPro";
 	color: #000;
 	font-weight: 400;
-	display: block;	
+	display: block;
 }
 
 .videosalespage .refillproducts .eachRefillProduct .addtocartdiv .btn.btn-primary
@@ -1960,7 +1960,7 @@ body.unpad .main-content .entry-content {
 
 .aboutuspage .aboutushero.about1 h1, .aboutuspage .aboutushero.about1 p
 {
-	color: #fff;	
+	color: #fff;
 }
 
 .aboutuspage .aboutushero.about1
@@ -2028,7 +2028,7 @@ body.unpad .main-content .entry-content {
 {
 	background: #fff;
 	height: 310px;
-	overflow: hidden; 
+	overflow: hidden;
 }
 
 .alternatecols .eachCol.altCol
@@ -2071,7 +2071,7 @@ body.unpad .main-content .entry-content {
 	line-height: 32px;
 	font-family: "MyriadPro";
 	font-weight: 400;
-	color: #fff;	
+	color: #fff;
 }
 
 .aboutuspage .alttwocols h4
@@ -2083,7 +2083,7 @@ body.unpad .main-content .entry-content {
 	color: #000;
 	margin-top: 0px;
 	margin-bottom: 10px;
-}	
+}
 
 .aboutuspage .alttwocols p
 {
@@ -2091,7 +2091,7 @@ body.unpad .main-content .entry-content {
 	line-height: 32px;
 	font-family: "MyriadPro";
 	font-weight: 400;
-	color: #000;	
+	color: #000;
 }
 
 .main-content > .container .alttwocols [class*="col-"], .main-content .alttwocols [class*="col-"] {
@@ -2131,7 +2131,7 @@ body.unpad .main-content .entry-content {
 {
 	font-size: 20px;
 	line-height: 32px;
-	color: #fff;	
+	color: #fff;
 }
 
 .aboutuspage .alttwocols .walkblock
@@ -2156,7 +2156,7 @@ body.unpad .main-content .entry-content {
 
 .aboutuspage .alttwocols .colorCol h4
 {
-	color: #fff;	
+	color: #fff;
 	margin-bottom: 0px;
 }
 
@@ -2174,10 +2174,10 @@ body.unpad .main-content .entry-content {
 	font-family: "MyriadPro";
 	font-weight: 400;
 	color: #FFF;
-	margin-bottom: 5px;	
+	margin-bottom: 5px;
 	margin-left: 0px;
 	padding-left: 0px;
-}	
+}
 
 .main-content > .container .aboutproduct [class*="col-"], .main-content .aboutproduct [class*="col-"] {
     padding: 45px 45px 45px 90px;
@@ -2206,19 +2206,19 @@ body.unpad .main-content .entry-content {
 
 .aboutuspage .aboutproduct .textcol
 {
-	padding-top: 115px !important; 	
-}	
+	padding-top: 115px !important;
+}
 
 .aboutuspage .aboutproduct .thumbcol
 {
-	margin-bottom: 45px; 	
-}	
+	margin-bottom: 45px;
+}
 
 .aboutuspage .aboutproduct .thumbcol img
 {
 	display: block;
 	margin-left: auto;
-	margin-right: auto;	
+	margin-right: auto;
 }
 
 .aboutuspage .aboutushero.about3
@@ -2244,7 +2244,7 @@ body.unpad .main-content .entry-content {
 	min-height: 195px;
 	background: url('images/science_heading_banner.jpg') 0 0 no-repeat #111e90;
 	padding-top: 90px;
-	padding-bottom: 63px;	
+	padding-bottom: 63px;
 }
 
 .page-heading.science-heading h1
@@ -2256,8 +2256,8 @@ body.unpad .main-content .entry-content {
 	color: #fff;
 	text-align: left;
 	text-transform: none;
-	margin: 0px;	
-}	
+	margin: 0px;
+}
 
 .fleximgrow p
 {
@@ -2265,32 +2265,32 @@ body.unpad .main-content .entry-content {
 	line-height: 34px;
 	font-family: "MyriadPro";
 	font-weight: 400;
-	margin-bottom: 25px;	
+	margin-bottom: 25px;
 }
 
 .fleximgrow .textblock
 {
-	padding-top: 45px;	
+	padding-top: 45px;
 }
 
 .fleximgrow.docrow
 {
-	background: url('images/science_section1.jpg') right 0 no-repeat #fff;	
+	background: url('images/science_section1.jpg') right 0 no-repeat #fff;
 	min-height: 530px;
 }
 
 .fleximgrow.docrow .textblock
 {
-	padding-top: 62px;	
+	padding-top: 62px;
 }
 
 .sc_sidebar
 {
 	padding-top: 70px;
-	padding-bottom: 35px;	
+	padding-bottom: 35px;
 }
 
-.sc_sidebar ul 
+.sc_sidebar ul
 {
 	margin: 0px;
 	padding: 0px;
@@ -2301,7 +2301,7 @@ body.unpad .main-content .entry-content {
 {
 	list-style: none;
 	margin-bottom: 12px;
-		
+
 }
 
 .sc_sidebar ul li a
@@ -2364,13 +2364,13 @@ div#science_menu.affix {
 
 .fleximgrow.necrow
 {
-	background: url('images/nectar7_bg.jpg') right 0 no-repeat #fff;	
+	background: url('images/nectar7_bg.jpg') right 0 no-repeat #fff;
 	min-height: 730px;
 }
 
 .fleximgrow.necrow .textblock
 {
-	padding-top: 62px;	
+	padding-top: 62px;
 }
 
 
@@ -2392,7 +2392,7 @@ div#science_menu.affix {
 	line-height: 34px;
 	font-family: "MyriadPro";
 	font-weight: 400;
-	margin-bottom: 25px;	
+	margin-bottom: 25px;
 }
 
 .graphrow
@@ -2400,7 +2400,7 @@ div#science_menu.affix {
 	padding-top: 45px;
 	min-height: 655px;
 	background: #1946ba;
-	color: #FFF;	
+	color: #FFF;
 }
 .graphrow.dark {
   background: #000;
@@ -2446,7 +2446,7 @@ div#science_menu.affix {
 .textrow.textmito .textblock
 {
 	padding-top: 64px;
-}	
+}
 
 .textrow .textblock p
 {
@@ -2472,7 +2472,7 @@ div#science_menu.affix {
 
 .textrow.textmito img
 {
-	margin-bottom: 45px;	
+	margin-bottom: 45px;
 }
 
 .textrow .img-headshot
@@ -2486,14 +2486,14 @@ div#science_menu.affix {
 
 .fleximgrow.nrrow
 {
-	background: url('images/replenish.jpg') right 0 no-repeat #1946ba;	
+	background: url('images/replenish.jpg') right 0 no-repeat #1946ba;
 	min-height: 308px;
 }
 
 .fleximgrow.nrrow .textblock
 {
 	padding-top: 80px;
-	padding-bottom: 45px;	
+	padding-bottom: 45px;
 }
 
 .fleximgrow.nrrow h2
@@ -2538,12 +2538,12 @@ div#science_menu.affix {
 
 .padleft0
 {
-	padding-left: 0px !important;	
+	padding-left: 0px !important;
 }
 
 .padright0
 {
-	padding-right: 0px;	
+	padding-right: 0px;
 }
 
 .newsletterrow
@@ -2552,7 +2552,7 @@ div#science_menu.affix {
 	padding-top: 80px;
 	padding-bottom: 80px;
 	min-height: 600px;
-	color: #FFF;	
+	color: #FFF;
 }
 
 .newsletterrow h2
@@ -2623,12 +2623,12 @@ div#science_menu.affix {
 
 .notopborder
 {
-	border-top: 0px solid #FFF !important;	
+	border-top: 0px solid #FFF !important;
 }
 
 .noborder
 {
-	border: 0px solid #FFF !important;	
+	border: 0px solid #FFF !important;
 }
 
 .videosalespage .heroproduct .heroproductcontent .productherobox.collagenbox h3
@@ -2638,7 +2638,7 @@ div#science_menu.affix {
 
 .videosalespage .heroproduct .heroproductcontent .productherobox.collagenbox h3.bordertopblk
 {
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 
 .videosalespage .heroproduct .heroproductcontent .productherobox.collagenbox h3.bordertopblk
@@ -2654,7 +2654,7 @@ div#science_menu.affix {
 
 .privacytext ol li
 {
-	margin-top: 15px;	
+	margin-top: 15px;
 }
 
 .privacytext ul li
@@ -2712,7 +2712,7 @@ div#science_menu.affix {
 
 .modalproducts .videosalespage .row.refillproducts > [class*="col-"]
 {
- 	padding: 0px;	
+ 	padding: 0px;
 }
 
 .modalproducts button.close
@@ -2740,7 +2740,7 @@ div#science_menu.affix {
 
 .testimonialcontent
 {
-	padding-top: 50px;	
+	padding-top: 50px;
 }
 
 .testimonialcontent .testimonialcontenttext
@@ -2795,24 +2795,24 @@ div#science_menu.affix {
 }
 
 @media screen and (min-width: 768px)
-{	
+{
 	.main-content .woocommerce-checkout .billingdetails
 	{
 		padding-right: 15px !important;
 	}
-	
+
 	.main-content .woocommerce-checkout .testimonials
 	{
 		padding-left: 15px !important;
 	}
-	
+
 	.main-content .woocommerce-checkout .testimonials [class*="col-"]
 	{
 		padding-left: 15px;
 		padding-right: 15px;
 	}
-	
-}	
+
+}
 @media screen and (min-width: 992px)
 {
 	.videosalespage .refillproducts .eachRefillProduct h3
@@ -2821,13 +2821,13 @@ div#science_menu.affix {
 		margin-right: -2em;
 		min-height: 86px;
 	}
-	
+
 	.videosalespage .refillproducts .eachRefillProduct .refillThumb
 	{
 		min-height: 250px;
 		position: relative;
 	}
-	
+
 	.videosalespage .refillproducts .eachRefillProduct .refillThumb img
 	{
 		position: absolute;
@@ -2835,7 +2835,7 @@ div#science_menu.affix {
 		left: 0px;
 		right: 0px;
 	}
-}	
+}
 
 @media screen and (max-width: 980px) {
 	.main-content .woocommerce table.shop_table
@@ -2847,14 +2847,14 @@ div#science_menu.affix {
 
 @media screen and (max-width: 991px)
 {
-	
+
 	.videosalespage .refillproducts .eachRefillProduct .addtocartdiv
 	{
 		max-width: 220px;
 		display: block;
 		margin: 0px auto 20px;
 	}
-	
+
 	.videosalespage .refillproducts .eachRefillProduct
 	{
 		border-bottom: 1px solid #C2C2C2;
@@ -2864,57 +2864,57 @@ div#science_menu.affix {
 }
 
 @media screen and (max-width: 767px) {
-	
+
 	footer .socialicons ul
 	{
 	}
-	
+
 	footer .site-copyright
 	{
 		text-align: center;
 	}
-	
+
 	#footerwidgets .widget {
 		margin-bottom: 10px;
 		margin-top: 10px;
 	}
-	
+
 	#footerwidgets .cards img {
 		float: left;
 		margin-bottom: 1em;
 	}
-	
+
 	.home-hero .home-hero-caption h1
 	{
 		font-size: 38px;
    	 	line-height: 42px;
 	}
-	
-	#footerwidgets 
+
+	#footerwidgets
 	{
 		margin-top: 45px;
 	}
-	
+
 	.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals
 	{
 		float: none;
 		width: 100%;
 	}
-	
+
 	.woocommerce #content table.cart td.actions .button, .woocommerce #content table.cart td.actions .input-text, .woocommerce #content table.cart td.actions input, .woocommerce table.cart td.actions .button, .woocommerce table.cart td.actions .input-text, .woocommerce table.cart td.actions input, .woocommerce-page #content table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .input-text, .woocommerce-page #content table.cart td.actions input, .woocommerce-page table.cart td.actions .button, .woocommerce-page table.cart td.actions .input-text, .woocommerce-page table.cart td.actions input
 	{
 		float: none;
 		width: 100%;
 		max-width: 220px;
 	}
-	
+
 	.woocommerce .cart .button, .woocommerce .cart input.button
 	{
 		margin-top: 10px;
 		float: none !important;
 	}
-	
-	
+
+
 	.videosalespage h1
 	{
 		font-size: 28px;
@@ -2925,14 +2925,14 @@ div#science_menu.affix {
 		margin-top: 0px;
 		margin-bottom: 25px;
 	}
-	
+
 	.videosalespage .refillproducts .eachRefillProduct
 	{
 		padding-left: 1.5em;
 		padding-right: 1.5em;
 	}
-	
-	.main-content > .container .alternatecols [class*="col-"], .main-content .alternatecols [class*="col-"], 
+
+	.main-content > .container .alternatecols [class*="col-"], .main-content .alternatecols [class*="col-"],
 	.main-content > .container .aboutmission [class*="col-"], .main-content .aboutmission [class*="col-"],
 	.main-content > .container .alttwocols [class*="col-"], .main-content .alttwocols [class*="col-"],
 	.main-content > .container .aboutushero [class*="col-"], .main-content .aboutushero [class*="col-"],
@@ -2940,12 +2940,12 @@ div#science_menu.affix {
 	{
 		padding: 45px !important;
 	}
-	
+
 	.aboutuspage .alttwocols .blueeight
 	{
 		background: #1946ba;
-	}	
-	
+	}
+
 	.alternatecols .eachCol,
 	.aboutuspage .aboutushero,
 	.aboutuspage .aboutmission
@@ -2953,45 +2953,45 @@ div#science_menu.affix {
 		height: auto !important;
 		min-height: 100px !important;
 	}
-	
+
 	.aboutuspage .aboutmission{ padding-bottom:50%; }
 
 	.aboutuspage .aboutushero.about1 .herocaption, .aboutuspage .aboutushero.about2 .herocaption
 	{
 		margin-top: 45px;
 	}
-	
+
 	.main-content > .container .alttwocols [class*="col-"], .main-content .alttwocols [class*="col-"]
 	{
 		min-height: 100px;
 	}
-	
+
 	.aboutuspage .alttwocols .walkblock
 	{
 		min-height: 600px !important;
 	}
-	
+
 	.fleximgrow.docrow .textblock
 	{
-		padding-top: 45px;	
+		padding-top: 45px;
 	}
-	
+
 	.fleximgrow.docrow, .fleximgrow.necrow
 	{
 		background: #FFF;
 	}
-	
+
 	.fleximgrow.docrow .textblock
 	{
-			
+
 	}
-	
+
 	.graphrow img.imglast
 	{
 		margin-left: 0px;
 		margin-top: 20px;
 	}
-	
+
 	.fleximgrow.nrrow
 	{
 		background: #1946ba;
@@ -3013,7 +3013,7 @@ div#science_menu.affix {
 Site prefix
 a- ajax
 b- block
-c- column 
+c- column
 d- data
 g- global
 j- javascript
@@ -3027,10 +3027,10 @@ r- reset
  */
 .os-animation{
 	opacity: 0;
-}  
+}
 .os-animation.animated{
 	opacity: 1;
-} 
+}
 .g-container{
     margin: 0 auto;
     width: 100%;
@@ -3312,7 +3312,7 @@ Coin
 .b-coin img {
 	width: 100%;
 	height: auto;
-	
+
 }
 /*
 =================================================================
@@ -3491,7 +3491,7 @@ Nad
     font-size: 18px;
     font-weight: bold;
     margin: 0 25px 0 0;
-    vertical-align: middle;	
+    vertical-align: middle;
 }
 .b-nad_doctor footer img {
 	display: inline-block;
@@ -3772,7 +3772,7 @@ Doctor Discover
 	float: left;
 	width: 100%;
 	margin: 56px 0 0 0;
-	
+
 }
 .b-inst article {
 	margin: 0 6%;
@@ -3796,7 +3796,7 @@ Doctor Discover
 	margin-bottom: 10px;
 }
 .b-inst ul li img {
-	
+
 }
 .b-inst table {
 	width: 100%;
@@ -3807,9 +3807,9 @@ Doctor Discover
     border-top: 1px solid #1946ba;
 }
 .b-inst table tbody {
-	
+
 }
-.b-inst table thead td {						  
+.b-inst table thead td {
 	font-size: 19px;
     font-weight: bold;
     padding: 15px 5px;
@@ -3959,7 +3959,7 @@ End young
 	vertical-align: top;
 }
 .b-bottle_row hgroup {
-	
+
 }
 .b-bottle_row h2 {
 	font-size: 31px;
@@ -3970,7 +3970,7 @@ End young
     font-weight: bold;
 }
 .b-bottle_payment {
-	
+
 }
 .b-bottle_row_img {
 	margin: 27px 0;
@@ -3988,7 +3988,7 @@ End young
 	text-transform: uppercase;
 }
 .b-bottle_price p strike {
-	
+
 }
 .b-bottle_price p.bottle_red_price {
 	color: #dd291c;
@@ -3996,7 +3996,7 @@ End young
 	font-weight: bold;
 }
 .b-bottle_price p.bottle_red_price span {
-	
+
 }
 .b-bottle_link {
 	margin: 0 0 30px;
@@ -4018,7 +4018,7 @@ End young
 	padding: 20px 0 0;
 }
 .b-bottle_solo .l-base_styles > p {
-	
+
 }
 .b-bottle_solo .b-bottle_price {
 	border: none;
@@ -4040,7 +4040,7 @@ End young
 	padding: 30px;
 }
 .b-remember .c-remember_right {
-	
+
 }
 
 .b-remember .c-remember_left h4 {
@@ -4052,7 +4052,7 @@ End young
 .b-remember .c-remember_left p {
 	font-size: 16px;
 	margin: 0 0 10px;
-	
+
 }
 
 .b-remember .c-remember_right h4 {
@@ -4176,10 +4176,20 @@ div.b-bottle_link button.btn.btn-primary {
 }
 
 
+/*COLLAGEN PAGE STYLES*/
+
+div.big-bucks article {
+    width: 50%;
+    padding-left: 99px;
+    padding-top: 37px;
+    padding-bottom: 39px;
+}
+
+
 
 @media (max-width: 950px) {
 	/*
-	 * Dark 
+	 * Dark
 	 */
 	.b-dark_content {
 		width: 60%;
@@ -4233,7 +4243,7 @@ div.b-bottle_link button.btn.btn-primary {
 		left: auto;
 		bottom: auto;
 	}
-	
+
 	/*
 	 * Truck
 	 */
@@ -4267,7 +4277,7 @@ div.b-bottle_link button.btn.btn-primary {
 		margin-left: 0px;
 	}
 	.b-nad_row {
-		
+
 	}
 	.b-nad_row_top .c-nad_left, .b-nad_row_top .c-nad_right, .b-nad_row_bottom .c-nad_left, .b-nad_row_bottom .c-nad_right, .b-nad_disf .c-nad_left, .b-nad_disf .c-nad_right {
 		width: 100%;
@@ -4315,7 +4325,7 @@ div.b-bottle_link button.btn.btn-primary {
 		margin: 0 auto;
 		display: block;
 	}
-	
+
 }
 @media (max-width: 550px) {
 	.b-header_content header {
