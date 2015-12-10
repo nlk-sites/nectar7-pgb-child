@@ -32,8 +32,6 @@ get_header(); ?>
     <li>ALL OF THE ABOVE?</li>
   </ul>
 
-  <img src="/wp-content/themes/nectar7-pgb-child/images/Rectangle.png" alt="" />
-
 </div>
 <!-- <figure class="b-header_heart"><img src="/wp-content/themes/nectar7-pgb-child/images/heart_icon.png" alt="" /> <figcaption> Can you imagine what your
 heart valves look like, your
@@ -53,7 +51,15 @@ liver or your brain cells?
   Developed to help restore your skin's youthfulness, firmness and elasticity starting at the cellular level, this breakthrough product contains three dynamic ingredients in ONE truly history-making formulation. In fact, it’  s such an important scientific advance that one of the key ingredients has five worldwide patents and was instrumental in enabling a renowned Harvard doctor to turn back the clock on aging! That doctor went on to become one of Time magazine’s "100 Most Influential People."
 </p>
 
-</article></div>
+</article>
+
+
+
+</div>
+
+<div class="nope">
+  <img src="/wp-content/themes/nectar7-pgb-child/images/Rectangle.png" alt="" />
+</div>
 <!-- end .b-truck-->
 <div class="g-clear_fix"></div>
 <div class="b-leg l-no_bg_image"><article>

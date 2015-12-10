@@ -4183,6 +4183,13 @@ div.big-bucks article {
     padding-left: 99px;
     padding-top: 37px;
     padding-bottom: 39px;
+		float: left;
+		display: inline-block;
+}
+
+div.nope {
+	width: 40%;
+	display: inline-block;
 }
 
 
