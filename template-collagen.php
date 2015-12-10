@@ -52,9 +52,6 @@ liver or your brain cells?
 </p>
 
 </article>
-
-
-
 </div>
 
 <div class="nope">
@@ -62,21 +59,11 @@ liver or your brain cells?
 </div>
 <!-- end .b-truck-->
 <div class="g-clear_fix"></div>
-<div class="b-leg l-no_bg_image"><article>
-<h2><strong>We wonder:</strong>
-How long will we be able to keep our independence and lifestyle?</h2>
-<p class="leg_blue">Perhaps you’re already experiencing the early signs of aging, such as:</p>
-
-<ul>
-	<li>Less energy and stamina</li>
-	<li>Decreased concentration, focus and memory</li>
-	<li>Increased joint stiffness and decreased mobility</li>
-</ul>
-<h3>Are you concerned about what you’re experiencing? Maybe you should be!</h3>
-Let’s face it, until now there really wasn’t much you could do except ultimately give-in to aging. Keep in mind that scientists, doctors and researchers agree that we are aging from the inside out. That means if you’re aging on the OUTSIDE, then you’re probably older than you may think on the INSIDE — where it matters most —
-…all the way down to the most basic structure of the human body - your cellular level. But NOW there’s more than just hope. Your generation has a chance to be the first ever to have a real say in how you’re going to age! Could 50 become the new 30? We think so thanks to an exciting, scientific peer-reviewed publication.
-
-</article><img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/leg_bg.jpg" alt="" />
+<div class="b-leg l-no_bg_image">
+  <article>
+    <h2>Why do pricey skin care products seem to STOP WORKING in your 30s and 40s? It’s NOT your fault!</h2>
+  </article>
+<!-- <img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/leg_bg.jpg" alt="" /> -->
 
 </div>
 <!-- end .b-leg-->
