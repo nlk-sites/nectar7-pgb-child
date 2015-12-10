@@ -22,10 +22,15 @@ get_header(); ?>
 <img src="/wp-content/themes/nectar7-pgb-child/images/logo.png" alt="Nectar7" />
 </a></div>
 <div class="g-clear_fix"></div>
-<div class="b-header_content"><header>Why Do
-Some People
-Age Faster
-Than Others?</header>Have you ever asked yourself that question after meeting old friends at your high school, college or a family reunion ?
+<div class="b-header_content"><header>What worries you the most about your skin?</header>
+  <ul>
+    <li>Accelerated aging? Wrinkles? Sagging skin?</li>
+    <li>Wasting money on creams, lotions and potions?</li>
+    <li>Skin care products that sound great, but don’t work?</li>
+    <li>Skin care products that have stopped working?</li>
+    <li>The high cost, pain and possible side effects of facial injections and cosmetic surgery?</li>
+    <li>ALL OF THE ABOVE?</li>
+  </ul>
 
 </div>
 <!-- <figure class="b-header_heart"><img src="/wp-content/themes/nectar7-pgb-child/images/heart_icon.png" alt="" /> <figcaption> Can you imagine what your
