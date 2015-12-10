@@ -61,7 +61,7 @@ liver or your brain cells?
 <div class="g-clear_fix"></div>
 <div class="red">
   <article>
-    <h2>Why do pricey skin care products seem to STOP WORKING in your 30s and 40s? It’s NOT your fault!</h2>
+    <h3>Why do pricey skin care products seem to STOP WORKING in your 30s and 40s? It’s NOT your fault!</h3>
   </article>
 <!-- <img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/leg_bg.jpg" alt="" /> -->
 

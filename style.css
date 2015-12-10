@@ -4195,6 +4195,8 @@ div.nope {
 
 div.red {
 	background-color: #DD2C00;
+	padding: 35px 80px;
+	color: white;
 }
 
 @media (max-width: 950px) {
