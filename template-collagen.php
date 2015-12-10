@@ -32,7 +32,7 @@ Than Others?</header>Have you ever asked yourself that question after meeting ol
 heart valves look like, your
 liver or your brain cells?
 </figcaption></figure> -->
-<img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/header_bg.jpg" alt="" />
+<img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/hero.png" alt="" />
 
 </div>
 <!-- end .b-header-->
