@@ -71,7 +71,7 @@ liver or your brain cells?
 <div class="coincidence">
   <article>
     <p>
-      It’  s no coincidence that many of the cosmetic products that “  seemed”   to work beautifully into your 20s— and early 30s — are suddenly less effective into your late 30s and 40s. It’  s NOT your fault! Your beautiful complexion probably had LESS to do with the products you were using religiously and MORE to do with a naturally occurring protein molecule in your body called collagen.
+      It’s no coincidence that many of the cosmetic products that “seemed”   to work beautifully into your 20s— and early 30s — are suddenly less effective into your late 30s and 40s. It’s NOT your fault! Your beautiful complexion probably had LESS to do with the products you were using religiously and MORE to do with a naturally occurring protein molecule in your body called collagen.
     </p>
   </article>
 <!-- <img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/aging_bg.png" alt="" /> -->
