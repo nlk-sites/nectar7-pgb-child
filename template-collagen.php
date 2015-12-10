@@ -43,8 +43,13 @@ liver or your brain cells?
 <!-- end .b-header-->
 <div class="g-clear_fix"></div>
 <div><article>
-<h1>Are you on the fast track to old age and premature health issues?</h1>
-We're about to share with you why some people seem to age so gracefully — looking years younger with boundless energy and vitality — while others appear to be on the fast track to old age and premature health issues. Sure, we’d like to think we’re NOT going to age like previous generations. After all, some of us take vitamins, eat organic veggies and go on occasional walks. But the truth is, most of us aren’t really slowing the hands of time. We’re aging just like our parents did.
+<p>
+  If you’  re tired of paying big bucks for fancy bottles that fail to live up to the hype, if you’  re worried about harsh chemicals and preservatives that may be doingmore harm than good, if you’  re NOT ready for the pain, expense and uncertainty of facial injections or going under the knife, then keep reading. You’  re about to learn about a brand new skin care advance with age-defying properties NEVER before available to the public — until now!
+</p>
+
+<p>
+  Developed to help restore your skin's youthfulness, firmness and elasticity starting at the cellular level, this breakthrough product contains three dynamic ingredients in ONE truly history-making formulation. In fact, it’  s such an important scientific advance that one of the key ingredients has five worldwide patents and was instrumental in enabling a renowned Harvard doctor to turn back the clock on aging! That doctor went on to become one of Time magazine’s "100 Most Influential People."
+</p>
 
 </article></div>
 <!-- end .b-truck-->
