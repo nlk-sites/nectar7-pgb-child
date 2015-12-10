@@ -4192,7 +4192,9 @@ div.nope {
 	display: inline-block;
 }
 
-
+b-header_content ul {
+	max-width: 45%;
+}
 
 @media (max-width: 950px) {
 	/*
