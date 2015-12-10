@@ -4207,6 +4207,18 @@ div.coincidence p {
 	padding: 40px 50px;
 }
 
+div.bummer {
+	background-color: #EAEFF2;
+}
+
+div.bummer_image {
+	width: 45%;
+}
+
+div.bummer div.older_content {
+	width: 45%;
+}
+
 @media (max-width: 950px) {
 	/*
 	 * Dark

@@ -86,6 +86,11 @@ liver or your brain cells?
 <!-- end .b-aging   -->
 <div class="g-clear_fix"></div>
 <div class="bummer">
+  
+  <div class="bummer_image">
+      <img src="" alt="" />
+  </div>
+
   <div class="older_content">
 
     <h3>The more collagen we lose, the older we look!</h3>
