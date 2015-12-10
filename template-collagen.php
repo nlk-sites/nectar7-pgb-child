@@ -59,7 +59,7 @@ liver or your brain cells?
 </div>
 <!-- end .b-truck-->
 <div class="g-clear_fix"></div>
-<div class="b-leg l-no_bg_image">
+<div class="red">
   <article>
     <h2>Why do pricey skin care products seem to STOP WORKING in your 30s and 40s? It’s NOT your fault!</h2>
   </article>

@@ -4193,6 +4193,10 @@ div.nope {
 	padding-top: 50px;
 }
 
+div.red {
+	background-color: #DD2C00;
+}
+
 @media (max-width: 950px) {
 	/*
 	 * Dark
