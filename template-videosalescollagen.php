@@ -44,13 +44,20 @@ $cart_url = $woocommerce->cart->get_cart_url();
 											<div class="row">
 												<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
 													<h4>NECTAR7 Niagen&reg; &amp; Collagen gives you the power &amp; beauty to do more.</h4>
-                        </div>
-                      </div>
+												</div>
+											</div>
 											<div class="row">
 												<div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
 													<h1>THREE skin restorative ingredients together for FIRST TIME in ONE spectacular product!</h1>
-													<div class="videocontent">
-														<img src="<?php bloginfo('stylesheet_directory'); ?>/images/vsl_collagen_img.jpg" alt="Niagen&reg; &amp; COLLAGEN" width="640" height="360" />
+													<div class="videocontent" style="box-shadow: 0 3px 8px; max-width: 736px; max-height:414px;">
+														<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async></script>
+														<div class="wistia_responsive_padding" style="padding:56.25% 0 28px 0;position:relative;">
+															<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+																<div class="wistia_embed wistia_async_k0xyl7hynd videoFoam=true" style="height:100%;width:100%">
+																	<img src="<?php bloginfo('stylesheet_directory'); ?>/images/vsl_collagen_img.jpg" alt="Niagen&reg; &amp; COLLAGEN" width="640" height="360" />
+																</div>
+															</div>
+														</div>
 													</div>
 												</div>
 											</div>
@@ -154,7 +161,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 															<h4>Servings Per Container: <strong>30</strong></h4>
 															<h4>Amount Per Serving: <strong>% Daily Value*</strong></h4>
 															<h3>Nicotinamide Riboside (as Niagen&reg;) 100 mg</h3>
-															<h3 class="notopborder">Hydrolyzed Fish Collagen 100 mg</h3>
+															<h3 class="notopborder">Hydrolyzed Fish Collagen 1000 mg</h3>
 															<h3 class="noborder">Hyaluronic Acid 50 mg</h3>
 															<h3 class="bordertopblk">*% Daily Value not established</h3>
 															<h3 class="noborder">Other Ingredients:</h3>
@@ -178,7 +185,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 										</div>
 									</div>
 								</div>
-								<div class="row">
+								<div class="row powerandbeauty">
 									<div class="col-md-12 col-sm-12 col-xs-12 leftmaincontent">
 										<div class="row leftboxedcontent">
 											<div class="col-md-12 text-center">
@@ -191,7 +198,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 													</div>
 												</div>
 												<div class="row">
-													<img src="<?php bloginfo('stylesheet_directory'); ?>/images/video_sales_banner_bottom.jpg" alt="DNA graphic" width="1280" height="524" class="img-responsive aligncenter size-full wp-image-44" />
+													<img src="/wp-content/uploads/2015/12/collagen-face-shot.png" alt="DNA graphic" width="1280" height="524" class="img-responsive aligncenter size-full wp-image-44" />
 												</div>
 											</div>
 										</div>

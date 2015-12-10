@@ -60,15 +60,14 @@ $get_checkout_url = apply_filters( 'woocommerce_get_checkout_url', WC()->cart->g
 			<div class="col-xs-12 col-sm-5 col-md-4 testimonials" style="margin-top: 15px;">
 				<h3>Happy Customers</h3>
 				<blockquote>
-					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/mark.jpg" class="img-responsive testimonial-image" />
-					<p>After a number of doctor and dermatology visits, Mark had reached the end of his patience in the search for finding a cure for a condition that was both worsening. To make matters worst he faced a growing autoimmune disorder that seemed to evade doctors or, as he felt, "Doctors were not helping me with my growing concerns, weekend state or the condition of my physical body."</p>
-					<p><a href="<?php echo get_bloginfo('url'); ?>/marks-story/">Read more of Mark's story</a></p>
-					<footer>Mark M. San Diego, CA</footer>
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/jeromy.jpg" class="img-responsive testimonial-image" />
+					<p>At 40 I have been struggling with maintaining focus and energy running a business, family and personal time: surfing, mountain biking, soccer and more. NECTAR7 has delivered me a new level and source of power in every aspect of my life. I feel better and notice a faster recovery time when pushing my physical activities on a daily basis.</p>
+					<footer>Jeromy S., Del Mar, CA</footer>
 				</blockquote>
 				<blockquote>
-					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/patty.jpg" class="img-responsive testimonial-image" />
-					<p>I am a successful business woman running multiple global businesses as well as balancing a hectic schedule with two successful busy children. I travel with my daughter and son for sports weekly. I have also suffered from medical issues in the past year. I have had multiple episodes of blood clots. Since taking Niagen&reg; I have lost weight and become much more mobile with allows and aides in my recovery and helps me prevent immobility which wards off the blood clots. I also sleep soundly and have noticed a much more youthful look. Everyone who has not seen me since taking Niagen&reg; continues to ask what I'm doing because I look and feel so different from the last encounter they have had with me. Niagen&reg; has given me my life and youth back.</p>
-					<footer>Patty S., Ohio</footer>
+					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/wanda.jpg" class="img-responsive testimonial-image" />
+					<p>I have been taking NECTAR7 Niagen&reg; for about three months. Usually around the early autumn, I suffer with sinus infections, colds and generally feel sluggish. This year, while many around me have been sick during the climate change from summer to fall with widely varying  temperatures, I have felt wonderful!! I sleep more soundly than I have in years and have the energy to walk 4 to 6 miles a day!! I recently had a full physical with blood work. The doctor is amazed at my way above average wonderful health!!</p>
+					<footer>Wanda R., Dallas, TX</footer>
 				</blockquote>
 			</div>
       <?php } ?>

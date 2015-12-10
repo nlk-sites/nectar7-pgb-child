@@ -132,11 +132,42 @@ $cart_url = $woocommerce->cart->get_cart_url();
 										<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/guaranteevsl30.png" class="img-responsive" />
 									</div>
 								</div>
-                <div class="row pdesc">
-                  <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
-                    <p><strong>PRODUCT DESCRIPTION</strong><br />NECTAR7 Niagen&reg; is for people intent on performing the closest to 100% of their mental and physical capabilities. Awarded five worldwide patents, NECTAR7 Niagen&reg; is the first and only commercially available form of (NR) in the world today. Clinically shown to boost NAD levels by 30 percent in humans after just one dosage*, NECTAR7 Niagen&reg; is for people who want to increase endurance and energy, while benefiting from heightened cognitive function, including concentration, focus and memory. Before you age another day, try NECTAR7 Niagen&reg;.</p>
-                  </div>
-                </div>
+								<div class="row pbenefits">
+									<div class="col-xs-12 col-sm-12 text-center">
+										<h4>Major Benefits</h4>
+									</div>
+									<figure class="col-sm-4 text-center"><img src="/wp-content/themes/nectar7-pgb-child/images/press_icon1.png" alt=""><br>
+										<figcaption>
+											<strong>Boost Energy*</strong>
+											NAD+ “charges” mitochondria to fire with peak&nbsp;energy.<br>
+										</figcaption>
+									</figure>
+									<figure class="col-sm-4 text-center"><img src="/wp-content/themes/nectar7-pgb-child/images/press_icon2.png" alt=""><br>
+										<figcaption><strong>Rejuvenate*</strong>
+											Healthier, younger and glowing skin, hair and&nbsp;nails.<br>
+										</figcaption>
+									</figure>
+									<figure class="col-sm-4 text-center"><img src="/wp-content/themes/nectar7-pgb-child/images/press_icon3.png" alt=""><br>
+										<figcaption><strong>Improve Health*</strong>Provide your body with a boost of NAD+ and feel&nbsp;great.<br>
+										</figcaption>
+									</figure>
+								</div>
+								<div class="row pdesc">
+									<div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
+										<h4>Product Description</h4>
+										<p>NECTAR7 Niagen® is for people intent on performing the closest to 100% of their mental and physical capabilities. Awarded five worldwide patents, NECTAR7 Niagen® is the first and only commercially available form of (NR) in the world today. Clinically shown to boost NAD levels by 30 percent in humans after just one dosage*, NECTAR7 Niagen® is for people who want to increase endurance and energy, while benefiting from heightened cognitive function, including concentration, focus and memory. Before you age another day, try NECTAR7 Niagen®.</p>	
+									</div>
+									<div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
+										<h4>Benefits of NECTAR7 Niagen&reg;</h4>
+									</div>
+									<ul>
+										<li class="col-md-2 col-md-offset-1"><strong>Mental Clarity</strong>*<br/>Booth your focus and experience all day energy with NECTAR7.</li>
+										<li class="col-md-2"><strong>Improve Health</strong>*<br/>Provide your body with a boost of NAD+ and feel great.</li>
+										<li class="col-md-2"><strong>Better Skin</strong>*<br/>Healthier, younger and glowing skin, hair and nails.</li>
+										<li class="col-md-2"><strong>Boost Energy</strong>*<br/>NAD+ charges mitochondria to fire with peak energy.</li>
+										<li class="col-md-2"><strong>Nuture Cells</strong>*<br/>Fertilizes mitochondria to proliferate efficiently throughout the body.</li>
+									</ul>
+								</div>
 								<div class="row heroproduct">
 									<div class="col-xs-12">
 										<div class="row pad30">
@@ -245,54 +276,32 @@ $cart_url = $woocommerce->cart->get_cart_url();
 			<div class="row testimonials">
                 <div class="col-xs-12">
                   <h3>Happy Customers</h3>
-
-                <div class="row">
+                </div>
                 <div class="col-xs-12">
-                  <blockquote>
-                    <img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/mark.jpg" class="img-responsive testimonial-image" />
-                    <p>After a number of doctor and dermatology visits, Mark had reached the end of his patience in searching for a cure to his worsening health. To make matters worse he faced a growing autoimmune disorder that seemed to evade diagnosis or, as he felt, "Doctors were not helping me with my growing concerns, weakened state or the condition of my physical body."</p>
-                    <p><a href="<?php echo get_bloginfo('url'); ?>/marks-story/">Read more of Mark's story</a></p>
-                    <footer>Mark M. San Diego, CA</footer>
-                  </blockquote>
-                </div>
-                </div>
-                <div class="row">
-                <div class="col-xs-12">
-                  <blockquote>
-                    <img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/patty.jpg" class="img-responsive testimonial-image" />
-                    <p>I am a successful business woman running multiple global businesses as well as balancing a hectic schedule with two successful busy children. I travel with my daughter and son for sports weekly. I have also suffered from medical issues in the past year. I have had multiple episodes of blood clots. Since taking Niagen&reg; I have lost weight and become much more mobile with allows and aides in my recovery and helps me prevent immobility which wards off the blood clots. I also sleep soundly and have noticed a much more youthful look. Everyone who has not seen me since taking Niagen&reg; continues to ask what I'm doing because I look and feel so different from the last encounter they have had with me. Niagen&reg; has given me my life and youth back.</p>
-                    <footer>Patty S., Ohio</footer>
-                  </blockquote>
-                </div>
-                </div>
-                <div class="row">
+				<style type="text/css">.kudos-site-credit{ display:none !important;}</style>
+					<script src='https://secure.boast.io/kudos/display_js?guid=7196447e-93bf-11e5-8aeb-f23c916e1512&tags=feature&limit=&order=created_at&widget=classic&social_sharing=false' type='text/javascript'></script>
+				</div>
                 <div class="col-xs-12">
                   <blockquote>
                     <img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/jeromy.jpg" class="img-responsive testimonial-image" />
                     <p>At 40 I have been struggling with maintaining focus and energy running a business, family and personal time: surfing, mountain biking, soccer and more. NECTAR7 has delivered me a new level and source of power in every aspect of my life. I feel better and notice a faster recovery time when pushing my physical activities on a daily basis.</p>
-                    <footer>Jeromy S., Del Mar, CA</footer>
+                    <footer>Jeromy S.</footer>
                   </blockquote>
                 </div>
-                </div>
-                <div class="row">
                 <div class="col-xs-12">
                   <blockquote>
                     <img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/wanda.jpg" class="img-responsive testimonial-image" />
                     <p>I have been taking Niagen&reg; for about three months. Usually around the early autumn, I suffer with sinus infections, colds and generally feel sluggish. This year, while many around me have been sick during the climate change from summer to fall with widely varying  temperatures, I have felt wonderful!! I sleep more soundly than I have in years and have the energy to walk 4 to 6 miles a day!! I recently had a full physical with blood work. The doctor is amazed at my way above average wonderful health!!</p>
-                    <footer>Wanda R., Dallas, TX</footer>
+                    <footer>Wanda R.</footer>
                   </blockquote>
                 </div>
-                </div>
-                <div class="row">
                 <div class="col-xs-12">
                   <blockquote>
                     <img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/sean.jpg" class="img-responsive testimonial-image" />
                     <p>While approaching my mid 30’s, I noticed my attention span becoming shorter and shorter in both my personal and professional life. After my first dose of NECTAR7 Niagen&reg; - my energy level and focus improved. I am only on my second week of taking Niagen&reg; and look forward to experiencing more benefits of this new product.</p>
-                    <footer>Sean F,. Encinitas, CA</footer>
+                    <footer>Sean F</footer>
                   </blockquote>
                 </div>
-                </div>
-              </div>
             </div>
 
                 <div class="row productfaqs">

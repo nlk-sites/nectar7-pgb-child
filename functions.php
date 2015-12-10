@@ -75,7 +75,7 @@ function get_woo_cart_menu() {
 add_action( 'tha_header_before', 'n7_top_widget_bar' );
 function n7_top_widget_bar() {
   // #todo : make this dynamic checkbox on pages meta?
-  if ( !is_page(array( 'opc-test', 'order-niagen', 'why-nectar7' ) ) ) {
+  if ( !is_page(array( 'opc-test', 'order-niagen', 'order-niagen-46', 'why-nectar7' ) ) ) {
   ?>
 	<div id="top-widget-bar" class="container-fluid">
 		<div class="row">
@@ -245,7 +245,7 @@ add_filter('woocommerce_enable_order_notes_field', 'nectar7_filter_order_notes')
  * come get some
  */
 function nectar7_body_classes( $classes ) {
-  if ( is_page('order-niagen') ) {
+  if ( is_page( array( 'order-niagen', 'order-niagen-46' ) ) ) {
     $classes[] = 'opc';
     $classes[] = 'unpad';
   }
@@ -316,3 +316,23 @@ function nectar7_filter_checkout_fields( $fields ) {
   return $fields;
 }
 add_filter( 'woocommerce_checkout_fields', 'nectar7_filter_checkout_fields' );
+
+/**
+ * hook through wc_authorize_net_cim_credit_card_payment_form_manage_payment_methods_button_html
+ *
+ * woocommerce-gateway-authorize-net-cim\lib\skyverge\woocommerce\payment-gateway\
+ * class-sv-wc-payment-gateway-payment-form.php
+ *
+ * to change the "Manage Payment Methods" button injected in to Not a button
+ */
+function nectar7_manage_payment_btn( $html ) {
+  if ( function_exists('is_wcopc_checkout') ) {
+    // only make Not a button on one page checkout pages?
+    if ( is_wcopc_checkout() ) {
+      $html = str_replace( 'class="button"', '', $html );
+      $html = str_replace( 'float:right', 'display: block', $html );
+    }
+  }
+  return $html;
+}
+add_filter( 'wc_authorize_net_cim_credit_card_payment_form_manage_payment_methods_button_html', 'nectar7_manage_payment_btn' );

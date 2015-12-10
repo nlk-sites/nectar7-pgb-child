@@ -122,7 +122,7 @@ get_header(); ?>
 											<div class="col-md-12">
 												<div class="row text-center">
 													<div class="col-md-12">
-														<h3>In a recent human study, a single dose of NECTAR7 Niagen&reg;, increased NAD+ by 30%</h3>
+														<h4>In a recent human study, a <strong>single</strong> dose of NECTAR7 Niagen&reg; increased NAD+ by <strong>30% in just 8 hours</strong>; not 8 days or 8 weeks</h4>
 														<p>NECTAR7 not only rewinds your body’s clock, it helps you hold on to your physical energy and mental alertness for much longer.  In effect, NECTAR7 improves and extends your performance, giving you the power to do more and achieve more.</p>
                             							<img src="<?php bloginfo('stylesheet_directory'); ?>/images/30percent.jpg" alt="30%" class="img-responsive" />
 													</div>
@@ -147,9 +147,9 @@ get_header(); ?>
 											<div class="col-md-12">
 												<div class="row">
 													<div class="col-md-8 col-sm-7 col-xs-12">
-														<h1>NECTAR7 Niagen</h1>
+														<h1>NECTAR7 Niagen&reg;</h1>
 														<h2>Power For More Life</h2>
-														<p>NECTAR7 is created to let you live it up, no matter your age.  It is an optimized form of Niagen&reg; that boosts your metabolism, improves cognitive health and reverses the effects of aging on the body and brain, so you can get the most out of every moment.</p>
+														<p>NECTAR7 is created to let you live it up, no matter your age. It is an optimized form of Niagen&reg; that boosts your metabolism, improves cognitive health and reverses the effects of aging on the body and brain, so you can get the most out of every moment.</p>
 														<p><a href="<?php bloginfo('url'); ?>/nectar7-niagen/" class="btn btn-primary">Learn More</a></p>
 													</div>
 													<div class="col-md-4 col-sm-5 col-xs-12 product-image-col">
@@ -203,48 +203,53 @@ get_header(); ?>
 												</div>
 											</div>
 											<div class="col-xs-12 col-sm-12 col-md-12">
-													<div class="row box-title testimonials">
-														<div class="col-xs-12 col-md-12">
-															<h3>Happy Customers</h3>
-
-														</div>
-														<div class="col-xs-12">
-															<blockquote>
-																<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/mark.jpg" class="img-responsive testimonial-image" />
-																<p>After a number of doctor and dermatology visits, Mark had reached the end of his patience in searching for a cure to his worsening health. To make matters worse he faced a growing autoimmune disorder that seemed to evade diagnosis or, as he felt, "Doctors were not helping me with my growing concerns, weakened state or the condition of my physical body."</p>
-																<p><a href="<?php echo get_bloginfo('url'); ?>/marks-story/">Read more of Mark's story</a></p>
-																<footer>Mark M. San Diego, CA</footer>
-															</blockquote>
-														</div>
-														<div class="col-xs-12">
-															<blockquote>
-																<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/patty.jpg" class="img-responsive testimonial-image" />
-																<p>I am a successful business woman running multiple global businesses as well as balancing a hectic schedule with two successful busy children. I travel with my daughter and son for sports weekly. I have also suffered from medical issues in the past year. I have had multiple episodes of blood clots. Since taking Niagen&reg; I have lost weight and become much more mobile with allows and aides in my recovery and helps me prevent immobility which wards off the blood clots. I also sleep soundly and have noticed a much more youthful look. Everyone who has not seen me since taking Niagen&reg; continues to ask what I'm doing because I look and feel so different from the last encounter they have had with me. Niagen&reg; has given me my life and youth back.</p>
-																<footer>Patty S., Ohio</footer>
-															</blockquote>
-														</div>
-														<div class="col-xs-12">
-															<blockquote>
-																<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/jeromy.jpg" class="img-responsive testimonial-image" />
-																<p>At 40 I have been struggling with maintaining focus and energy running a business, family and personal time: surfing, mountain biking, soccer and more. NECTAR7 has delivered me a new level and source of power in every aspect of my life. I feel better and notice a faster recovery time when pushing my physical activities on a daily basis.</p>
-																<footer>Jeromy S., Del Mar, CA</footer>
-															</blockquote>
-														</div>
-														<div class="col-xs-12">
-															<blockquote>
-																<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/wanda.jpg" class="img-responsive testimonial-image" />
-																<p>I have been taking NECTAR7 Niagen&reg; for about three months. Usually around the early autumn, I suffer with sinus infections, colds and generally feel sluggish. This year, while many around me have been sick during the climate change from summer to fall with widely varying  temperatures, I have felt wonderful!! I sleep more soundly than I have in years and have the energy to walk 4 to 6 miles a day!! I recently had a full physical with blood work. The doctor is amazed at my way above average wonderful health!!</p>
-																<footer>Wanda R., Dallas, TX</footer>
-															</blockquote>
-														</div>
-														<div class="col-xs-12">
-															<blockquote>
-																<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/sean.jpg" class="img-responsive testimonial-image" />
-																<p>While approaching my mid 30’s, I noticed my attention span becoming shorter and shorter in both my personal and professional life. After my first dose of NECTAR7 Niagen&reg; - my energy level and focus improved. I am only on my second week of taking Niagen&reg; and look forward to experiencing more benefits of this new product.</p>
-																<footer>Sean F,. Encinitas, CA</footer>
-															</blockquote>
-														</div>
+												<div class="row box-title testimonials">
+													<div class="col-xs-12 col-md-12">
+														<h3>Happy Customers</h3>
 													</div>
+													<div class="col-xs-12">
+													<style type="text/css">.kudos-site-credit{ display:none !important;}</style>
+														<script src='https://secure.boast.io/kudos/display_js?guid=7196447e-93bf-11e5-8aeb-f23c916e1512&tags=feature&limit=&order=created_at&widget=classic&social_sharing=false' type='text/javascript'></script>
+													</div>
+													<div class="col-xs-12">
+														<blockquote>
+															<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/jeromy.jpg" class="img-responsive testimonial-image" />
+															<p>At 40 I have been struggling with maintaining focus and energy running a business, family and personal time: surfing, mountain biking, soccer and more. NECTAR7 has delivered me a new level and source of power in every aspect of my life. I feel better and notice a faster recovery time when pushing my physical activities on a daily basis.</p>
+															<footer>Jeromy S.</footer>
+														</blockquote>
+													</div>
+													<div class="col-xs-12">
+														<blockquote>
+															<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/wanda.jpg" class="img-responsive testimonial-image" />
+															<p>I have been taking NECTAR7 Niagen&reg; for about three months. Usually around the early autumn, I suffer with sinus infections, colds and generally feel sluggish. This year, while many around me have been sick during the climate change from summer to fall with widely varying  temperatures, I have felt wonderful!! I sleep more soundly than I have in years and have the energy to walk 4 to 6 miles a day!! I recently had a full physical with blood work. The doctor is amazed at my way above average wonderful health!!</p>
+															<footer>Wanda R.</footer>
+														</blockquote>
+													</div>
+													<div class="col-xs-12">
+														<blockquote>
+															<img src="<?php bloginfo('stylesheet_directory'); ?>/images/testimonials/sean.jpg" class="img-responsive testimonial-image" />
+															<p>While approaching my mid 30’s, I noticed my attention span becoming shorter and shorter in both my personal and professional life. After my first dose of NECTAR7 Niagen&reg; - my energy level and focus improved. I am only on my second week of taking Niagen&reg; and look forward to experiencing more benefits of this new product.</p>
+															<footer>Sean F</footer>
+														</blockquote>
+													</div>
+													<div class="col-xs-12">
+														<blockquote>
+															<p>NECTAR7 with NAD+ really works!  After only a few days of taking the product, I feel I now have more energy and can concentrate better.   I seem to have an easier time remembering things and doing other mental activities like solving puzzles. This is definitely a breakthrough product which will help people from across the world lead better and more productive lives!</p>
+															<footer>Nes E., Atlanta, Georgia</footer>
+														</blockquote>
+													</div>
+													<div class="col-xs-12">
+														<blockquote>
+															<p>I learned of this product back in March of 2015. I received product shortly afterwards and started taking it, both mornings and at bedtime. To say I was skeptical would have been an understatement!  I wasn't sure Niagen would make me feel anything but I was willing to give it a try. There was no Euphoric feeling at first but I did notice how refreshed the entire day was. There was no lack of energy like I had become accustomed to. The one thing I did notice was that I slept like a baby the entire night. This was something I had not done for years. I also started dreaming again which I now understand is part of a healthy sleep pattern.</p>
+															<p>I don't know what I would do without this product now. It has truly changed my life!</p>
+															<footer>Craig C., Cleveland, OH</footer>
+														</blockquote>
+													</div>
+													<div class="col-xs-12">
+													    <h4>See <a href="/happycustomers/">all the testimonials</a></h4>
+													    <a href="/happycustomers/#submit_kudo" class="btn btn-primary">Share Your Story</a>
+													</div>
+												</div>
 											</div>
 										</div>
 									</div>

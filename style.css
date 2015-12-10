@@ -629,6 +629,7 @@ footer .socialicons ul li.instagram a
 .testimonials blockquote {
 	border-left: none;
 	margin-bottom: 40px;
+	padding-left:0;
 }
 .testimonials blockquote img {
 	border: 4px solid #00b3e3;
@@ -754,13 +755,12 @@ footer .socialicons ul li.instagram a
 .leftboxedcontent.graph2content
 {
 	background: #e1f3fc;
-	padding-top: 0px;
 }
-.leftboxedcontent.graph2content h3
+.leftboxedcontent.graph2content h4
 {
-	color: #000;
+	color: #1946BA;
 	line-height: 1.15;
-	margin: 1.7em 1em .5em;
+	margin: 1.2em 1em .5em;
 	text-transform: none;
 }
 .leftboxedcontent.graph2content p
@@ -1382,6 +1382,12 @@ body.unpad .main-content .entry-content {
 	}
 }
 */
+/* Video sales pages */
+.page-template-template-videosalescollagen #top-widget-bar,
+.page-template-template-videosales #top-widget-bar
+{
+	display:none;
+}
 
 /* Video banner */
 
@@ -1521,8 +1527,34 @@ body.unpad .main-content .entry-content {
 .videosalespage .actiontape img {
 	margin-top: -14px;
 }
+.videosalespage .pbenefits{
+    background:#e1f3fc;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+.videosalespage .pbenefits figure{
+    margin-top:20px;
+}
+.videosalespage .pbenefits figcaption{
+    margin-top:10px;
+}
+.videosalespage .pbenefits figcaption strong {
+   display:block;
+   text-transform:uppercase;
+}
 .videosalespage .pdesc {
   padding: 4em 0;
+}
+.videosalespage .pdesc p{ /*this could cause trouble with content changes*/
+    margin-bottom:30px;
+}
+.videosalespage .pdesc ul.row {
+    clear:both;
+    text-align: left;
+}
+.videosalespage .pdesc ul li{
+    padding-left:0 !important;
+    list-style:none;
 }
 .videosalespage .productfaqs {
   padding: 3em 0;
@@ -1537,6 +1569,14 @@ body.unpad .main-content .entry-content {
 {
 	background: url('images/fox_tail_3c.png') 0 0 no-repeat #00B3E3;	
 }
+.videosalespage .powerandbeauty{
+	background: linear-gradient(to bottom, rgb(218, 218, 218) 140px, #A7A7A7 ), #A7A7A7;
+}
+	.videosalespage .powerandbeauty h4,
+	.videosalespage .powerandbeauty h3{ text-shadow: 1px 1px 0px #EEE,-0px -0px 1px #999; }
+	.videosalespage .powerandbeauty h4{ color: #111E90; }
+	.videosalespage .powerandbeauty h3,
+	.videosalespage .powerandbeauty p{ color: #000;	}
 
 .videosalespage .heroproduct .productthumbcon
 {
@@ -2254,6 +2294,7 @@ body.unpad .main-content .entry-content {
 {
 	margin: 0px;
 	padding: 0px;
+	word-wrap: normal;
 }
 
 .sc_sidebar ul li
@@ -2272,6 +2313,7 @@ body.unpad .main-content .entry-content {
 	font-weight: 400;
 	color: #1946ba;
 	padding-left: 15px;
+	margin-left: -15px;
 }
 
 .sc_sidebar ul li.active a,
@@ -2954,6 +2996,9 @@ div#science_menu.affix {
 	{
 		background: #1946ba;
 	}
+	.sc_sidebar ul li a{
+		margin-left: auto;
+	}
 }
 
 @media screen and (min-width: 768px) {
@@ -3027,6 +3072,7 @@ Header
 	text-transform: uppercase;
 	line-height: 65px;
 	max-width: 478px;
+	background-color:transparent;
 }
 .b-header_content header span {
 	font-weight: bold;
@@ -3282,7 +3328,7 @@ Cells
 .b-cells {
 	float: left;
 	width: 100%;
-	background: url('images/cells_bg.jpg') no-repeat;
+	background: url('images/cells_bg.jpg') 0 1px no-repeat;
 	min-height: 968px;
 }
 .b-cells article {
@@ -3848,6 +3894,11 @@ End young
 	width: 100%;
 	margin: 54px 0 0px;
 }
+.b-opinions .testimonials blockquote img{
+	float:right;
+	margin-left:20px;
+	margin-right:0;
+}
 
 .b-another {
 	float: left;
@@ -4267,7 +4318,7 @@ div.b-bottle_link button.btn.btn-primary {
 	
 }
 @media (max-width: 550px) {
-	.b-header_content header, {
+	.b-header_content header {
 		font-size: 40px;
 		line-height: 1.2;
 	}
