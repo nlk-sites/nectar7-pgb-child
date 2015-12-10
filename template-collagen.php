@@ -32,6 +32,8 @@ get_header(); ?>
     <li>ALL OF THE ABOVE?</li>
   </ul>
 
+  <img src="/wp-content/themes/nectar7-pgb-child/images/Rectangle.png" alt="" />
+
 </div>
 <!-- <figure class="b-header_heart"><img src="/wp-content/themes/nectar7-pgb-child/images/heart_icon.png" alt="" /> <figcaption> Can you imagine what your
 heart valves look like, your
