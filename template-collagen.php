@@ -42,7 +42,7 @@ liver or your brain cells?
 </div>
 <!-- end .b-header-->
 <div class="g-clear_fix"></div>
-<div class="b-truck"><article>
+<div><article>
 <h1>Are you on the fast track to old age and premature health issues?</h1>
 We're about to share with you why some people seem to age so gracefully — looking years younger with boundless energy and vitality — while others appear to be on the fast track to old age and premature health issues. Sure, we’d like to think we’re NOT going to age like previous generations. After all, some of us take vitamins, eat organic veggies and go on occasional walks. But the truth is, most of us aren’t really slowing the hands of time. We’re aging just like our parents did.
 
