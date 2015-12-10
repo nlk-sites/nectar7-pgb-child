@@ -85,12 +85,15 @@ liver or your brain cells?
 </div>
 <!-- end .b-aging   -->
 <div class="g-clear_fix"></div>
-<div class="b-dark">
-<div class="b-dark_content">
+<div class="bummer">
+  <div class="older_content">
 
-Even more difficult questions lie ahead, such as <i>“Where will it end?” “Will I end up losing my independence and lifestyle like my parents or grandparents?” “Will I become a burden to my children?”</i> Nobody is immune from worry when it comes to aging but, finally, you can do something about it!
+    <h3>The more collagen we lose, the older we look!</h3>
+    <p>
+      University studies indicate that women over 40 have about half the collagen they enjoyed in their early 20s. And here’s the bummer: The body is depending on collagen to keep our skin looking smooth, radiant and free of wrinkles. Unless ourcollagen is constantly being replenished, the aging process is allowed to run amok at varying speeds. Certainly, environmental factors play a role, such as UV damage, pollution, diet, sleep, stress and facial expressions. But the truth is that we’re all destined to run low on collagen unless we start doing something about it right now!
+    </p>
 
-</div>
+  </div>
 </div>
 <div class="g-clear_fix"></div>
 <div class="b-coin"><article>
