@@ -4213,10 +4213,13 @@ div.bummer {
 
 div.bummer_image {
 	width: 45%;
+	display: inline-block;
+	float: left;
 }
 
 div.bummer div.older_content {
 	width: 45%;
+	display: inline-block;
 }
 
 @media (max-width: 950px) {
