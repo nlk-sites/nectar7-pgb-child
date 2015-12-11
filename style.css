@@ -4219,7 +4219,9 @@ div.coincidence p {
 
 div.older_content {
 	width: 38%;
-	float: right;
+	position: absolute;
+	top: 2268px;
+	left: 600px;
 	/*display: inline-block;*/
 }
 
