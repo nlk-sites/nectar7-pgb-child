@@ -22,7 +22,7 @@ get_header(); ?>
 <img src="/wp-content/themes/nectar7-pgb-child/images/logo.png" alt="Nectar7" />
 </a></div>
 <div class="g-clear_fix"></div>
-<div class="b-header_content"><header>What worries you the most about your skin?</header>
+<div class="b-header_content"><header>What <span class="bluee">worries</span> you the most about <span class="bluee">your skin?</span></header>
   <ul>
     <li>Accelerated aging? Wrinkles? Sagging skin?</li>
     <li>Wasting money on creams, lotions and potions?</li>
