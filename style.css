@@ -4236,12 +4236,14 @@ div.bummer {
 }
 
 div.older_content {
-	width: 38%;
+	width: 37%;
 	float: right;
 	display: inline-block;
 	z-index: 100;
+	margin-right: 100px;
 	/*display: inline-block;*/
 }
+
 
 .b-header_content header {
 	color: #3BBFE6;
