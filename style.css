@@ -4191,6 +4191,10 @@ div.big-bucks article {
 		display: inline-block;
 }
 
+span.boldd {
+	font-weight: bold;
+}
+
 div.nope {
 	width: 40%;
 	display: inline-block;
