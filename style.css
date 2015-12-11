@@ -4217,9 +4217,10 @@ div.bummer_image {
 	float: left;
 }
 
-div.bummer div.older_content {
-	width: 45%;
+div.older_content {
+	width: 38%;
 	display: inline-block;
+
 }
 
 @media (max-width: 950px) {
