@@ -4223,7 +4223,7 @@ div.bummer img {
 }
 
 div.bummer {
-	background: url('/wp-content/themes/nectar7-pgb-child/images/woman-age-60-70.png');
+	background: url('/wp-content/themes/nectar7-pgb-child/images/woman-age-60-70.png') no-repeat center;
 }
 
 div.older_content {
