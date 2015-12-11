@@ -4238,8 +4238,9 @@ b-header_content header {
 	color: #3BBFE6;
 }
 
-b-header_content header span.bluee {
+span.bluee {
 	font-weight: bold;
+	color: #1846B5;
 }
 
 @media (max-width: 950px) {
