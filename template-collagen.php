@@ -23,7 +23,7 @@ get_header(); ?>
 </a></div>
 <div class="g-clear_fix"></div>
 <div class="b-header_content"><header>What <span class="bluee">worries</span> you the most about <span class="bluee">your skin?</span></header>
-  <ul>
+  <ul class="list-one">
     <li>Accelerated aging? Wrinkles? Sagging skin?</li>
     <li>Wasting money on creams, lotions and potions?</li>
     <li>Skin care products that sound great, but don’t work?</li>

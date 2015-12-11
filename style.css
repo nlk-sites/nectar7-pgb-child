@@ -4178,6 +4178,10 @@ div.b-bottle_link button.btn.btn-primary {
 
 /*COLLAGEN PAGE STYLES*/
 
+ul.list-one {
+	padding-left: 15px;
+}
+
 div.big-bucks article {
     width: 50%;
     padding-left: 99px;
@@ -4201,6 +4205,7 @@ div.red article h3 {
 	padding: 35px 80px;
 	color: white;
 	text-align: center;
+	line-height: 1.1;
 }
 
 div.coincidence p {
