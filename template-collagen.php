@@ -86,9 +86,9 @@ liver or your brain cells?
 <!-- end .b-aging   -->
 <div class="g-clear_fix"></div>
 <div class="bummer">
-  
+
   <div class="bummer_image">
-      <img src="" alt="" />
+      <img src="/wp-content/themes/nectar7-pgb-child/images/woman-age-60-70.png" alt="" />
   </div>
 
   <div class="older_content">

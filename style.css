@@ -4207,20 +4207,19 @@ div.coincidence p {
 	padding: 40px 50px;
 }
 
-div.bummer {
+/*div.bummer {
 	background-color: #EAEFF2;
-}
+}*/
 
-div.bummer_image {
+/*div.bummer_image {
 	width: 45%;
 	display: inline-block;
 	float: left;
-}
+}*/
 
 div.older_content {
 	width: 38%;
-	display: inline-block;
-
+	/*display: inline-block;*/
 }
 
 @media (max-width: 950px) {
