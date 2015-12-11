@@ -75,7 +75,7 @@ liver or your brain cells?
     </p>
   </article>
 <!-- <img class="l-background_img" src="/wp-content/themes/nectar7-pgb-child/images/aging_bg.png" alt="" /> -->
-  <img src="/wp-content/themes/nectar7-pgb-child/images/Group-14.png" alt="" />
+  <img src="/wp-content/themes/nectar7-pgb-child/images/skin.png" alt="" />
   <article>
     <p>
       Often referred to as the “youth protein,”  collagen makes up the vast majority of our skin — nearly 70% — and forms the basis for connective and support tissues throughout the body. In essence, collagen is the glue that keeps everything perfectly in place...for a while. So if you’re wondering why those ridiculously expensive skin products aren’t working like they used to, there’s a good chance it’ s because of the ever-dwindling supply of collagen in your body.
