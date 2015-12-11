@@ -4217,9 +4217,15 @@ div.coincidence p {
 	float: left;
 }*/
 
+div.bummer img {
+	z-index: 80;
+	display: inline-block;
+}
+
 div.older_content {
 	width: 38%;
 	float: right;
+	display: inline-block;
 	z-index: 100;
 	/*display: inline-block;*/
 }
