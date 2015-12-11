@@ -4222,6 +4222,10 @@ div.bummer img {
 	display: inline-block;
 }
 
+div.bummer {
+	background-image: url('/wp-content/themes/nectar7-pgb-child/images/woman-age-60-70.png');
+}
+
 div.older_content {
 	width: 38%;
 	float: right;
