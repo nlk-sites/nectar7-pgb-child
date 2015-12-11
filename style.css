@@ -4199,6 +4199,7 @@ div.nope {
 	width: 40%;
 	display: inline-block;
 	padding-top: 50px;
+	padding-bottom: 30px;
 }
 
 div.red {
@@ -4252,6 +4253,10 @@ div.older_content {
 .b-header_content header span.bluee {
 	font-weight: bold;
 	color: #1846B5;
+}
+
+div.balloon h2 {
+	width: 45%;
 }
 
 @media (max-width: 950px) {

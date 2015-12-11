@@ -9,6 +9,8 @@
 
 get_header(); ?>
 
+<!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,600' rel='stylesheet' type='text/css'> -->
+
 
 <style type="text/css">
 .kudos-site-credit{
@@ -98,13 +100,20 @@ liver or your brain cells?
 
 </div>
 <div class="g-clear_fix"></div>
-<div class="b-coin"><article>
-<h2>Decades after Nobel Prize is awarded, <strong>blockbuster discovery</strong> is made.</h2>
-This unlikely discovery began quietly decades ago when three researchers discovered a new molecule (known as the “hidden vitamin” or “miracle molecule”) called "Nicotinomide Riboside" or Niagen (NR) for short. As fascinating as the discovery was at the time, it lay dormant until recently when the true treasures of Niagen were uncovered. After lying dormant in the research community for over 30 years, one doctor from Harvard would unlock the incredible live-giving secrets behind NR and your body’s NAD level and why he now believes reversing the ageing process is now possible during his lifetime! The bottom line… look feel and perform like you are younger for longer.
+<div class="balloon">
+<h2><strong>Like air escaping from a balloon.</strong></h2>
 
-</article>
+<p>
+  Seriously! Collagen keeps our skin beautifully toned, bright, smooth and firm by forming connective tissues that act something like an elastic girdle— a truly natural face-lift. It also provides support for the stomach, blood vessels, liver and kidneys. Without collagen fibers, we’  d be little more than a lovable BLOB lying on the floor!
+</p>
+
+<p>
+  As we age, the body loses collagen like air escaping from a balloon. As that balloon continues to deflate, telltale fine lines and wrinkles emerge. The older we get, the more air that escapes and those fine lines develop into full-fledged wrinkles. At some point, the relentless wear and tear of time and environment —along with tens of thousands of facial expressions — are too much for our connective tissues and elastin fibers to withstand. One day you look in the mirror and those so-called laugh lines are no laughing matter. 
+</p>
+
 <div class="b-coin_img"><img src="/wp-content/themes/nectar7-pgb-child/images/coin.png" alt="" /></div>
 </div>
+
 <div class="g-clear_fix"></div>
 <div class="b-cells"><article class="l-base_styles">
 <h2>Take care of <strong>your CELLS</strong> and your CELLS will <strong>take care of you!</strong></h2>
