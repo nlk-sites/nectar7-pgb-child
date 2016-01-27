@@ -77,7 +77,7 @@ function n7_wc_print_js() {
 }
 function n7_swap_wc_print_js(){
   remove_action( 'wp_footer', 'wc_print_js', 25 );
-  add_action( 'wp_footer', 'n7_wc_print_js', 25);
+  add_action( 'wp_footer', 'n7_wc_print_js', 21);
 }
 add_action( 'wp_footer', 'n7_swap_wc_print_js', 1 );
 
