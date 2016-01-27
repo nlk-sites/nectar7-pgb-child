@@ -58,6 +58,35 @@ function nectar7_wdjs_labjs_src( $lab_src, $lab_ver ) {
 }
 add_filter( 'wdjs_labjs_src', 'nectar7_wdjs_labjs_src', 10, 2 );
 
+function n7_wc_print_js() {
+  global $wc_queued_js;
+
+  if ( ! empty( $wc_queued_js ) ) {
+
+    echo "<!-- WooCommerce JavaScript -->\n<script type=\"text/javascript\">\nfunction do_wc_js($) {";
+
+    // Sanitize
+    $wc_queued_js = wp_check_invalid_utf8( $wc_queued_js );
+    $wc_queued_js = preg_replace( '/&#(x)?0*(?(1)27|39);?/i', "'", $wc_queued_js );
+    $wc_queued_js = str_replace( "\r", '', $wc_queued_js );
+
+    echo $wc_queued_js . "}\n</script>\n";
+
+    unset( $wc_queued_js );
+  }
+}
+function n7_swap_wc_print_js(){
+  remove_action( 'wp_footer', 'wc_print_js', 25 );
+  add_action( 'wp_footer', 'n7_wc_print_js', 26);
+}
+add_action( 'wp_footer', 'n7_swap_wc_print_js', 1 );
+
+function n7_call_wc_print_js( $end ) {
+    $end .= '.do_wc_js()';
+    return $end;
+}
+add_filter( 'wdjs_before_end_lab', 'n7_call_wc_print_js' );
+
 function nectar7_cleaner_wp_header_please() {
 	// Display the links to the extra feeds such as category feeds
 	remove_action( 'wp_head', 'feed_links_extra', 3 );
