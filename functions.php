@@ -77,12 +77,12 @@ function n7_wc_print_js() {
 }
 function n7_swap_wc_print_js(){
   remove_action( 'wp_footer', 'wc_print_js', 25 );
-  add_action( 'wp_footer', 'n7_wc_print_js', 21);
+  add_action( 'wp_footer', 'n7_wc_print_js', 25 );
 }
 add_action( 'wp_footer', 'n7_swap_wc_print_js', 1 );
 
 function n7_call_wc_print_js( $end ) {
-    $end .= '.do_wc_js()';
+    $end .= '.wait(do_wc_js)';
     return $end;
 }
 add_filter( 'wdjs_before_end_lab', 'n7_call_wc_print_js' );
