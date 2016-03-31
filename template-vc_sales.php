@@ -5,15 +5,11 @@
  * @package pgb
  */
 
-// inject js_composer js & css for toggle FAQs and such
+// inject js_composer js & css for toggle FAQs and such?
 wp_enqueue_script( 'wpb_composer_front_js' );
 wp_enqueue_style( 'js_composer_front' );
 
 get_header();
-
-global $woocommerce;
-$cart_url = $woocommerce->cart->get_cart_url();
-
 ?>
 
 	<div id="content" class="main-content-inner col-sm-12 col-md-12 col-lg-12">
@@ -55,7 +51,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 										<div class="addtocartdiv">
 											<!--label><input type="radio" name="refilltype_30" id="refilltype_30_a" value="autofill"/> AutoRefill price - BEST value</label-->
 											<!--label><input type="radio" name="refilltype_30" id="refilltype_30_1" value="one_time"/> One-time delivery price</label-->
-											<a href="<?php echo $cart_url; ?>?add-to-cart=74&exclusive=1" class="btn btn-primary">BUY NOW</a>
+											<a href="/order-niagen-46/?add-to-cart=74&exclusive=1" class="btn btn-primary">BUY NOW</a>
 											<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 										</div>
 									</div>
@@ -72,7 +68,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 										<div class="addtocartdiv">
 											<!--label><input type="radio" name="refilltype_90" id="refilltype_90_a" value="autofill"/> AutoRefill price - BEST value</label-->
 											<!--label><input type="radio" name="refilltype_90" id="refilltype_90_1" value="one_time"/> One-time delivery price</label-->
-											<a href="<?php echo $cart_url; ?>?add-to-cart=97&exclusive=1" class="btn btn-primary">BUY NOW</a>
+											<a href="/order-niagen-46/?add-to-cart=97&exclusive=1" class="btn btn-primary">BUY NOW</a>
 											<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 										</div>
 									</div>
@@ -89,7 +85,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 										<div class="addtocartdiv">
 											<!--label><input type="radio" name="refilltype_180" id="refilltype_180_a" value="autofill"/> AutoRefill price - BEST value</label-->
 											<!--label><input type="radio" name="refilltype_180" id="refilltype_180_1" value="one_time"/> One-time delivery price</label-->
-											<a href="<?php echo $cart_url; ?>?add-to-cart=98&exclusive=1" class="btn btn-primary">BUY NOW</a>
+											<a href="/order-niagen-46/?add-to-cart=98&exclusive=1" class="btn btn-primary">BUY NOW</a>
 											<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 										</div>
 									</div>
