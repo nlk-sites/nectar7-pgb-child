@@ -55,7 +55,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 											<div class="addtocartdiv">
 												<!--label><input type="radio" name="refilltype_30" id="refilltype_30_a" value="autofill"/> AutoRefill price - BEST value</label-->
 												<!--label><input type="radio" name="refilltype_30" id="refilltype_30_1" value="one_time"/> One-time delivery price</label-->
-												<a href="<?php echo $cart_url; ?>?add-to-cart=75" class="btn btn-primary"/>BUY NOW</a>
+												<a href="<?php echo $cart_url; ?>?add-to-cart=75&exclusive=1" class="btn btn-primary"/>BUY NOW</a>
 												<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 											</div>
 										</div>
@@ -72,7 +72,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 												<div class="addtocartdiv">
 													<!--label><input type="radio" name="refilltype_90" id="refilltype_90_a" value="autofill"/> AutoRefill price - BEST value</label-->
 													<!--label><input type="radio" name="refilltype_90" id="refilltype_90_1" value="one_time"/> One-time delivery price</label-->
-													<a href="<?php echo $cart_url; ?>?add-to-cart=167" class="btn btn-primary"/>BUY NOW</a>
+													<a href="<?php echo $cart_url; ?>?add-to-cart=167&exclusive=1" class="btn btn-primary"/>BUY NOW</a>
 													<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 												</div>
 											</div>
@@ -89,7 +89,7 @@ $cart_url = $woocommerce->cart->get_cart_url();
 													<div class="addtocartdiv">
 														<!--label><input type="radio" name="refilltype_180" id="refilltype_180_a" value="autofill"/> AutoRefill price - BEST value</label-->
 														<!--label><input type="radio" name="refilltype_180" id="refilltype_180_1" value="one_time"/> One-time delivery price</label-->
-														<a href="<?php echo $cart_url; ?>?add-to-cart=168" class="btn btn-primary"/>BUY NOW</a>
+														<a href="<?php echo $cart_url; ?>?add-to-cart=168&exclusive=1" class="btn btn-primary"/>BUY NOW</a>
 														<img src="<?php bloginfo('stylesheet_directory'); ?>/images/card_small.png" class="card_xs" />
 													</div>
 												</div>

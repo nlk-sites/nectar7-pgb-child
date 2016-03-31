@@ -7,9 +7,14 @@
  * @package pgb
  */
 
-get_header(); ?>
+get_header();
+
+global $woocommerce;
+$cart_url = $woocommerce->cart->get_cart_url();
+?>
 
 <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,400italic,600,700,700italic,300' rel='stylesheet' type='text/css'> -->
+<?php //do we really need this?! ?>
 <link href='/wp-content/themes/nectar7-pgb-child/main.css' rel='stylesheet' type='text/css'>
 
 <style type="text/css">
@@ -481,7 +486,7 @@ NECTAR7 Niagen&reg; & Collagen is a scientifically based, synergistic blend of t
                             <p class="now">Now: $47.99</p>
                             <p class="your_save">YOU SAVE $18.00 (27%)</p>
                         </div>
-                        <div class="b-order_btn"><a href="http://nectar7.nlkdev.net/shopping-cart/?add-to-cart=75">ADD TO CART</a></div>
+                        <div class="b-order_btn"><a href="<?php echo $cart_url; ?>?add-to-cart=75&exclusive=1">ADD TO CART</a></div>
                         <div class="b-order_pay"><img src="/wp-content/themes/nectar7-pgb-child/images/bottle_payment.png" alt=""></div>
                     </div>
                 </div>
@@ -494,7 +499,7 @@ NECTAR7 Niagen&reg; & Collagen is a scientifically based, synergistic blend of t
                             <p class="now">Now: $118.62</p>
                             <p class="your_save">YOU SAVE $79.35 (40%)</p>
                         </div>
-                        <div class="b-order_btn"><a href="http://nectar7.nlkdev.net/shopping-cart/?add-to-cart=167">ADD TO CART</a></div>
+                        <div class="b-order_btn"><a href="<?php echo $cart_url; ?>?add-to-cart=167&exclusive=1">ADD TO CART</a></div>
                         <div class="b-order_pay"><img src="/wp-content/themes/nectar7-pgb-child/images/bottle_payment.png" alt=""></div>
                     </div>
                 </div>
@@ -507,7 +512,7 @@ NECTAR7 Niagen&reg; & Collagen is a scientifically based, synergistic blend of t
                             <p class="now">Now: $217.50</p>
                             <p class="your_save">YOU SAVE $178.44 (45%)</p>
                         </div>
-                        <div class="b-order_btn"><a href="http://nectar7.nlkdev.net/shopping-cart/?add-to-cart=168">ADD TO CART</a></div>
+                        <div class="b-order_btn"><a href="<?php echo $cart_url; ?>?add-to-cart=168&exclusive=1">ADD TO CART</a></div>
                         <div class="b-order_pay"><img src="/wp-content/themes/nectar7-pgb-child/images/bottle_payment.png" alt=""></div>
                     </div>
                 </div>
