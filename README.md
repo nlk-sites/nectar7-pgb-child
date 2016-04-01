@@ -1,6 +1,5 @@
-# pgb-child
-Example child theme of ProGo Base pgb. Currently just enqueues the default pgb style.css as well, and has no extra sidebars or Page Templates or anything else.
+# N7 pgb-child theme has moved!
 
-![awesome](https://raw.github.com/progothemes/pgb-child/master/screenshot.png)
+This repository is no longer supported.
 
-But you could fork it and make it do more.
+https://bitbucket.org/nlk/n7-niagen-pgb-child
